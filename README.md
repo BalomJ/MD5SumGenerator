@@ -1,11 +1,10 @@
 ![Build Status](https://gitlab.com/pages/gitbook/badges/master/build.svg)
 
 ---
+(ttps://git.martin.info/j.balom/md5sumgenerator/-/raw/master/images/OIP.jpg)
 
-Example [GitBook] website using GitLab Pages.
-
-Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation https://docs.gitlab.com/ce/user/project/pages/.
+Erzeugt von den Dateien eines Ordners incl. Subfolder und Files die 
+MD5 Summen und trägt diese in eine Excel Datei ein.
 
 ---
 
