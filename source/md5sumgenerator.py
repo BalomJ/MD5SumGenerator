@@ -1,3 +1,7 @@
+#-----------------------------------
+# Autor:    Josef Balom
+#-----------------------------------
+
 import os
 import hashlib
 import openpyxl
